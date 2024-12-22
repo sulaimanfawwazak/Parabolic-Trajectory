@@ -170,4 +170,3 @@ a: int = 10
 b: int = 5
 st.latex(fr'\frac{a}{b}')
 st.write(f'Initial velocity ($v_0$) $= \\frac{a}{b}$')
-
